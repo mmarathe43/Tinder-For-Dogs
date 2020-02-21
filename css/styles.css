@@ -1,0 +1,165 @@
+body{
+   font-family: 'Montserrat', sans-serif;
+}
+#title{
+  background-color: #ff4c68;
+}
+.heading{
+
+  font-size: 3rem;
+  line-height: 1.5;
+  margin-bottom: 2rem;
+  color: white;
+}
+
+.container-fluid{
+  padding:3% 10%;
+}
+
+.btn-light{
+  background-color: #ff4c68;
+}
+.navbar{
+  padding-left:0;
+  margin-bottom:2.5rem;
+}
+.navbar-brand{
+  font-size: 2rem;
+  font-family: 'ubuntu',sans-serif; ;
+}
+.nav-item{
+  padding: 5%;
+}
+.nav-link{
+  font-family: 'Montserrat-Regular',sans-serif;
+  font-size: 1.2rem;
+}
+.down-btn{
+  margin:0 5% 0 0;
+}
+.bot{
+  margin-bottom: 20%;
+}
+.iphone{
+  margin-left:20%;
+  transform: rotate(25deg);
+
+  width:60%;
+}
+
+#features{
+  position:relative;
+  z-index:1;
+  background-color: white;
+  padding:10% 10% 15%;
+}
+.hh{
+}
+.colss{
+  text-align: center;
+}
+.iii{
+  margin:30% auto 10%;
+  color: #ef8172;
+  font-size: 400%
+}
+
+.des{
+    color:#8f8f8f;
+    font-family: 'Montserrat-Regular',sans-serif;
+}
+.iii:hover{
+  color:#ff4c68;
+}
+
+#testimonials{
+  background-color: #ff4c68;
+  color:white;
+}
+
+.carousel-item{
+  padding:10% 20%;
+
+}
+
+.doggy{
+  margin-top: 5%;
+  width:20%;
+  border-radius: 100%;
+}
+
+
+#press{
+  background-color: #ff4c68;
+  pading: 10%;
+  text-align: center;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 3%;
+}
+
+
+#pricing{
+  text-align: center;
+  padding:10%;
+}
+.p4{
+    font-family: 'Montserrat-Regular',sans-serif;
+    line-height: 2;
+}
+.cord{
+
+  padding: 1%;
+}
+
+.bot2{
+  width:100%;
+}
+.card-header{
+  font-family: 'Montserrat-Regular',sans-serif;
+  font-weight: lighter;
+}
+.li{
+  font-family: 'Montserrat-Regular',sans-serif;
+  font-weight: 20;
+  color:grey;
+}
+.lic{
+  font-family: 'Montserrat-Regular',sans-serif;
+  font-weight: 20;
+}
+.cost{
+  font-weight:lighter;
+}
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  color: white;
+  padding:7%;
+}
+
+.bot3{
+  margin-top: 2%;
+}
+
+#footer{
+  text-align: center;
+    font-family: 'Montserrat-Regular',sans-serif;
+  font-weight: normal;
+  color: grey;
+}
+.footer-icon{
+  margin:3% auto 2%;
+}
+
+@media (max-width :990px){
+  .iphone{
+    transform:rotate(0);
+  }
+  .head{
+    text-align: center;
+  }
+}
